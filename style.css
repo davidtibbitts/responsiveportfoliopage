@@ -1,0 +1,49 @@
+#nav{
+    background-color:#76816D;
+    text-transform:uppercase;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+#nav a{
+    color:white;
+}
+
+#jumbotron{
+    background-color:#DDE0DA;
+}
+
+#jumbotron h1{
+    color:#A15EAA;
+    font-family: 'Righteous', cursive;
+    font-size:500%;
+}
+
+.footer{
+    background-color:#76816D;
+    color:white;
+}
+#worksamples{
+    padding: 10;
+}
+
+.card{
+    border:0px;
+}
+
+.btn-primary{
+    background-color:#DA6450;
+    border:1px solid #DA6450;
+    width:100%;
+}
+
+.btn-primary:hover{
+    background-color:#E38B7C;
+    border:1px solid #E38B7C;
+}
+
+.card-image-top{
+    width:100%;
+}
